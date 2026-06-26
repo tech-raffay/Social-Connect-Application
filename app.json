@@ -1,4 +1,21 @@
 {
   "name": "SocialConnect",
-  "displayName": "SocialConnect"
+  "displayName": "Social Connect",
+  "expo": {
+    "name": "Social Connect",
+    "slug": "social-connect",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.socialconnect"
+    },
+    "ios": {
+      "bundleIdentifier": "com.socialconnect"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
 }
