@@ -14,10 +14,11 @@ Social Connect is a high-end, premium mobile social networking application built
 
 ## App Screenshots
 
-### Home Feed & Profile Screen
 | Feed View | Profile View |
 |:---:|:---:|
-| ![Feed View](screenshots/feed.png) | ![Profile View](screenshots/profile.png) |
+| ![Feed View](screenshots/feed.jpg) | ![Profile View](screenshots/profile.jpg) |
+| **New Post View** | **Settings View** |
+| ![New Post View](screenshots/create_post.jpg) | ![Settings View](screenshots/settings.jpg) |
 
 ## Tech Stack
 
